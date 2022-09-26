@@ -29,9 +29,6 @@
                 <td>
                     <input type="submit" name="enviar" value="BUSCAR">
                 </td>
-                <td>
-                    <a href="añadir.php">añadir</a>
-                </td>
             </tr>
         </table>
         </form>
